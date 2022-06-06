@@ -10,7 +10,10 @@ Para acessar estes dados você precisará criar uma conta gratuita na Google Clo
 Essas consultas estão programadas para executar diariamente dentro da plataforma GCP e alimentar as tabelas que respondem as perguntas enumeradas: 
 
 questão1 - Quantos contratos (tokens) estão sendo criados por bloco?
+
 questão2 - Quantos blocos estão sendo criados em um dia?
+
 questão3 - Em relação aos últimos 15 dias, qual foi a variação na quantidade de blocos contendo tokens em um dia?
+
 questão4 - Qual o bloco que gerou contratos (tokens) e utilizou mais taxa (gas)? Informar o nome de todos os tokens contidos neste bloco
 
