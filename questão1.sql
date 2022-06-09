@@ -11,4 +11,4 @@ ORDER BY
   Qtd_Tokens DESC
 
 
--- URL DA CONSULTA: https://console.cloud.google.com/bigquery?sq=612225522575:4b3023b9f6bd4d278a16452f51f4df96
+-- URL DA CONSULTA: https://console.cloud.google.com/bigquery?sq=612225522575:4b3023b9f6bd4d278a16452f51f4df96 

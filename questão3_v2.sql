@@ -31,3 +31,5 @@ FROM (
   ORDER BY
     dia ) tf
 
+
+-- URL da consulta: https://console.cloud.google.com/bigquery?sq=612225522575:00b5b8ffd18e4dfa9f717de6dbe2221b

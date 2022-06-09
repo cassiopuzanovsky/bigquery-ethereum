@@ -53,3 +53,8 @@ FROM (
     dia
   ORDER BY
     dia ) tf
+
+
+
+
+-- URL da consulta: https://console.cloud.google.com/bigquery?sq=612225522575:a16fa9a34f7643e8b52e71a32c508da0

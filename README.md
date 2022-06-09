@@ -5,9 +5,9 @@ Nesse repositório estão algumas consultas que analisam dados de contratos inte
 - Projeto: “bigquery-public-data”
 - Dataset: “crypto_ethereum”
 
-Para acessar estes dados você precisará criar uma conta gratuita na Google Cloud Platform (GCP)
+Para acessar estes dados você precisará criar uma conta gratuita na Google Cloud Platform (GCP).
 
-Essas consultas estão programadas para executar diariamente dentro da plataforma GCP e alimentar as tabelas que respondem as perguntas enumeradas: 
+Essas consultas estão programadas para executar diariamente dentro da plataforma Google Cloud Platform (GCP), e alimentar as tabelas que respondem as perguntas enumeradas: 
 
 questão1 - Quantos contratos (tokens) estão sendo criados por bloco?
 
